@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="hytale_banner.png" alt="Hytale Deutsch Installer" width="800">
+</p>
+
+---
+
 # Derzeit pausiert, da sich die Situation beim Originalprojekt geändert hat.
 ---
 # Hytale Deutsch Installer
