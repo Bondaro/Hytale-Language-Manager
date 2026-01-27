@@ -89,3 +89,7 @@ Dieses Tool wurde von **Bondaro** entwickelt.
 Feedback, Ideen und Verbesserungsvorschläge sind jederzeit willkommen.
 Wenn dir das Tool hilft und du möchtest, kannst du mich hier unterstützen:
 https://ko-fi.com/bondaro
+
+## ⬇️ Download
+👉 **[Hytale Deutsch Installer v2.2 herunterladen](https://github.com/Bondaro/hytale-deutsch-installer/releases/latest/download/Hytale.Deutsch.Installer.exe)**
+
