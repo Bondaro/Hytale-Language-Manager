@@ -1,7 +1,7 @@
 # Derzeit pausiert, da sich die Situation beim Originalprojekt geändert hat.
 ---
 # Hytale Deutsch Installer
-Ein kleines Tool, das die deutsche Hytale-Übersetzung von **CelduinX** einfach und sicher installiert.
+Ein kleines Tool, das die deutsche [Hytale](https://hytale.com/)-Übersetzung von **[CelduinX](https://legacy.curseforge.com/members/celduinx/projects)** einfach und sicher installiert.
 Kein manuelles Kopieren von Dateien, kein Gefummel mit Ordnern entweder ZIP auswählen oder die neueste Version automatisch installieren.
 
 ---
