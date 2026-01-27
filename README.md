@@ -92,4 +92,7 @@ https://ko-fi.com/bondaro
 
 ## ⬇️ Download
 👉 **[Hytale Deutsch Installer v2.2 herunterladen](https://github.com/Bondaro/hytale-deutsch-installer/releases/latest/download/Hytale.Deutsch.Installer.exe)**
-
+## Hinweis zu Windows SmartScreen:
+Da dieses Tool kein kommerziell signiertes Zertifikat besitzt, kann Windows beim ersten Start eine Warnung anzeigen.
+Klicke in diesem Fall auf „Weitere Informationen“ → „Trotzdem ausführen“.
+Das Tool ist sicher und enthält keinen schädlichen Code.
