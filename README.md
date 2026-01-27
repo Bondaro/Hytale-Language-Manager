@@ -71,6 +71,12 @@ So kann zuverlässig geprüft werden, ob ein Update verfügbar ist.
 
 ---
 
+<p align="center">
+  <a href="screenshots/screenshot1.png"><img src="screenshots/screenshot1.png" width="200"></a>
+  <a href="screenshots/screenshot2.png"><img src="screenshots/screenshot2.png" width="200"></a>
+  <a href="screenshots/screenshot3.png"><img src="screenshots/screenshot3.png" width="200"></a>
+</p>
+
 ## Buttons im Programm
 **Neueste Version automatisch installieren**  
 → Lädt die aktuellste Version von CurseForge herunter und installiert sie.
