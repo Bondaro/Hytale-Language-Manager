@@ -15,7 +15,7 @@ Kein manuelles Kopieren von Dateien, kein Gefummel mit Ordnern entweder ZIP ausw
 ## Was macht das Tool?
 Der Installer:
 - prüft online, ob eine neue Version der Übersetzung verfügbar ist  
-- lädt bei Bedarf die aktuelle ZIP-Datei von CurseForge herunter  
+- lädt bei Bedarf die aktuelle ZIP-Datei von [CurseForge](https://www.curseforge.com/hytale) herunter  
 - entpackt die Sprachdateien  
 - kopiert sie automatisch an die richtigen Stellen in deinem Hytale-Ordner  
 - zeigt an, welche Version installiert ist  
