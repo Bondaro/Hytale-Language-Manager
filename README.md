@@ -71,6 +71,7 @@ Beispiel für Deutsch:
   <a href="screenshots/screenshot2.png"><img src="screenshots/screenshot2.png" width="200"></a>
   <a href="screenshots/screenshot3.png"><img src="screenshots/screenshot3.png" width="200"></a>
 </p>
+
 ## Temporäre Dateien
 Beim automatischen Download wird kurzzeitig eine Datei im Temp-Ordner genutzt:
 `%TEMP%\Hytale_Multi_Language.zip`
